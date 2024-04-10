@@ -10,7 +10,7 @@ bash
 
 Copy code
 
-git clone https://github.com/yourusername/your-repository.git
+git clone https://github.com/Harma2001/Dorbby.git
 
 
 Open Project in Android Studio:
